@@ -1,0 +1,256 @@
+Uri: http://fonts.googleapis.com/css?family=Roboto
+File Name: C:\Downloaded Web Sites\ziongate.netlify.app\css
+Content Type: text/css
+
+Uri: http://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Downloaded Web Sites\ziongate.netlify.app\s\roboto\v30\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://ziongate.netlify.app/
+File Name: C:\Downloaded Web Sites\ziongate.netlify.app\index.htm
+Content Type: text/html
+
+Uri: https://ziongate.netlify.app/assets/css/colors/blue-munsell.css
+File Name: C:\Downloaded Web Sites\ziongate.netlify.app\assets\css\colors\blue-munsell.css
+Content Type: text/css
+
+Uri: https://ziongate.netlify.app/assets/css/colors/blue.css
+File Name: C:\Downloaded Web Sites\ziongate.netlify.app\assets\css\colors\blue.css
+Content Type: text/css
+
+Uri: https://ziongate.netlify.app/assets/css/colors/defauld.css
+File Name: C:\Downloaded Web Sites\ziongate.netlify.app\assets\css\colors\defauld.css
+Content Type: text/css
+
+Uri: https://ziongate.netlify.app/assets/css/colors/green.css
+File Name: C:\Downloaded Web Sites\ziongate.netlify.app\assets\css\colors\green.css
+Content Type: text/css
+
+Uri: https://ziongate.netlify.app/assets/css/colors/orange.css
+File Name: C:\Downloaded Web Sites\ziongate.netlify.app\assets\css\colors\orange.css
+Content Type: text/css
+
+Uri: https://ziongate.netlify.app/assets/css/colors/purple.css
+File Name: C:\Downloaded Web Sites\ziongate.netlify.app\assets\css\colors\purple.css
+Content Type: text/css
+
+Uri: https://ziongate.netlify.app/assets/css/colors/slate.css
+File Name: C:\Downloaded Web Sites\ziongate.netlify.app\assets\css\colors\slate.css
+Content Type: text/css
+
+Uri: https://ziongate.netlify.app/assets/css/colors/yellow.css
+File Name: C:\Downloaded Web Sites\ziongate.netlify.app\assets\css\colors\yellow.css
+Content Type: text/css
+
+Uri: https://ziongate.netlify.app/assets/css/responsive.css
+File Name: C:\Downloaded Web Sites\ziongate.netlify.app\assets\css\responsive.css
+Content Type: text/css
+
+Uri: https://ziongate.netlify.app/assets/css/styles.css
+File Name: C:\Downloaded Web Sites\ziongate.netlify.app\assets\css\styles.css
+Content Type: text/css
+
+Uri: https://ziongate.netlify.app/assets/icons/font-awesome-4.7.0/css/font-awesome.min.css
+File Name: C:\Downloaded Web Sites\ziongate.netlify.app\assets\icons\font-awesome-4.7.0\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://ziongate.netlify.app/assets/icons/font-awesome-4.7.0/fonts/fontawesome-webfont3e6e.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\ziongate.netlify.app\assets\icons\font-awesome-4.7.0\fonts\fontawesome-webfont3e6e.eot
+Content Type: application/octet-stream
+
+Uri: https://ziongate.netlify.app/assets/icons/font-awesome-4.7.0/fonts/fontawesome-webfont3e6e.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\ziongate.netlify.app\assets\icons\font-awesome-4.7.0\fonts\fontawesome-webfont3e6e.svg
+Content Type: image/svg+xml
+
+Uri: https://ziongate.netlify.app/assets/icons/font-awesome-4.7.0/fonts/fontawesome-webfont3e6e.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\ziongate.netlify.app\assets\icons\font-awesome-4.7.0\fonts\fontawesome-webfont3e6e.ttf
+Content Type: font/ttf
+
+Uri: https://ziongate.netlify.app/assets/icons/font-awesome-4.7.0/fonts/fontawesome-webfont3e6e.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\ziongate.netlify.app\assets\icons\font-awesome-4.7.0\fonts\fontawesome-webfont3e6e.woff2
+Content Type: font/woff2
+
+Uri: https://ziongate.netlify.app/assets/icons/font-awesome-4.7.0/fonts/fontawesome-webfont3e6e.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\ziongate.netlify.app\assets\icons\font-awesome-4.7.0\fonts\fontawesome-webfont3e6e.woff
+Content Type: application/font-woff
+
+Uri: https://ziongate.netlify.app/assets/icons/font-awesome-4.7.0/fonts/fontawesome-webfontd41d.eot?
+File Name: C:\Downloaded Web Sites\ziongate.netlify.app\assets\icons\font-awesome-4.7.0\fonts\fontawesome-webfontd41d.eot
+Content Type: application/octet-stream
+
+Uri: https://ziongate.netlify.app/assets/images/ab-img.png
+File Name: C:\Downloaded Web Sites\ziongate.netlify.app\assets\images\ab-img.png
+Content Type: image/png
+
+Uri: https://ziongate.netlify.app/assets/images/extra-feature-bg.jpg
+File Name: C:\Downloaded Web Sites\ziongate.netlify.app\assets\images\extra-feature-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://ziongate.netlify.app/assets/images/footer-bg.png
+File Name: C:\Downloaded Web Sites\ziongate.netlify.app\assets\images\footer-bg.png
+Content Type: image/png
+
+Uri: https://ziongate.netlify.app/assets/images/h1w.png
+File Name: C:\Downloaded Web Sites\ziongate.netlify.app\assets\images\h1w.png
+Content Type: image/png
+
+Uri: https://ziongate.netlify.app/assets/images/header-bg-2.png
+File Name: C:\Downloaded Web Sites\ziongate.netlify.app\assets\images\header-bg-2.png
+Content Type: image/png
+
+Uri: https://ziongate.netlify.app/assets/images/hhh.jpg
+File Name: C:\Downloaded Web Sites\ziongate.netlify.app\assets\images\hhh.jpg
+Content Type: image/jpeg
+
+Uri: https://ziongate.netlify.app/assets/images/home-bg-img.jpg
+File Name: C:\Downloaded Web Sites\ziongate.netlify.app\assets\images\home-bg-img.jpg
+Content Type: image/jpeg
+
+Uri: https://ziongate.netlify.app/assets/images/map-color-overlay.png
+File Name: C:\Downloaded Web Sites\ziongate.netlify.app\assets\images\map-color-overlay.png
+Content Type: image/png
+
+Uri: https://ziongate.netlify.app/assets/images/portfolio/f1.png
+File Name: C:\Downloaded Web Sites\ziongate.netlify.app\assets\images\portfolio\f1.png
+Content Type: image/png
+
+Uri: https://ziongate.netlify.app/assets/images/portfolio/g2.png
+File Name: C:\Downloaded Web Sites\ziongate.netlify.app\assets\images\portfolio\g2.png
+Content Type: image/png
+
+Uri: https://ziongate.netlify.app/assets/images/portfolio/g3.jpg
+File Name: C:\Downloaded Web Sites\ziongate.netlify.app\assets\images\portfolio\g3.jpg
+Content Type: image/jpeg
+
+Uri: https://ziongate.netlify.app/assets/images/portfolio/g4.jpg
+File Name: C:\Downloaded Web Sites\ziongate.netlify.app\assets\images\portfolio\g4.jpg
+Content Type: image/jpeg
+
+Uri: https://ziongate.netlify.app/assets/images/portfolio/g5.png
+File Name: C:\Downloaded Web Sites\ziongate.netlify.app\assets\images\portfolio\g5.png
+Content Type: image/png
+
+Uri: https://ziongate.netlify.app/assets/images/portfolio/g6.png
+File Name: C:\Downloaded Web Sites\ziongate.netlify.app\assets\images\portfolio\g6.png
+Content Type: image/png
+
+Uri: https://ziongate.netlify.app/assets/images/portfolio/g7.jpg
+File Name: C:\Downloaded Web Sites\ziongate.netlify.app\assets\images\portfolio\g7.jpg
+Content Type: image/jpeg
+
+Uri: https://ziongate.netlify.app/assets/images/portfolio/g8.png
+File Name: C:\Downloaded Web Sites\ziongate.netlify.app\assets\images\portfolio\g8.png
+Content Type: image/png
+
+Uri: https://ziongate.netlify.app/assets/images/portfolio/g9.png
+File Name: C:\Downloaded Web Sites\ziongate.netlify.app\assets\images\portfolio\g9.png
+Content Type: image/png
+
+Uri: https://ziongate.netlify.app/assets/images/pr-0.jif
+File Name: C:\Downloaded Web Sites\ziongate.netlify.app\assets\images\pr-0.jif
+Content Type: application/octet-stream
+
+Uri: https://ziongate.netlify.app/assets/images/pr-1.jif
+File Name: C:\Downloaded Web Sites\ziongate.netlify.app\assets\images\pr-1.jif
+Content Type: application/octet-stream
+
+Uri: https://ziongate.netlify.app/assets/images/zion.jpeg
+File Name: C:\Downloaded Web Sites\ziongate.netlify.app\assets\images\zion.jpeg
+Content Type: image/jpeg
+
+Uri: https://ziongate.netlify.app/assets/js/custom-scripts.js
+File Name: C:\Downloaded Web Sites\ziongate.netlify.app\assets\js\custom-scripts.js
+Content Type: application/javascript
+
+Uri: https://ziongate.netlify.app/assets/js/map-init.js
+File Name: C:\Downloaded Web Sites\ziongate.netlify.app\assets\js\map-init.js
+Content Type: application/javascript
+
+Uri: https://ziongate.netlify.app/assets/plugins/css/animate.css
+File Name: C:\Downloaded Web Sites\ziongate.netlify.app\assets\plugins\css\animate.css
+Content Type: text/css
+
+Uri: https://ziongate.netlify.app/assets/plugins/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\ziongate.netlify.app\assets\plugins\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://ziongate.netlify.app/assets/plugins/css/jquery.fancybox.min.css
+File Name: C:\Downloaded Web Sites\ziongate.netlify.app\assets\plugins\css\jquery.fancybox.min.css
+Content Type: text/css
+
+Uri: https://ziongate.netlify.app/assets/plugins/css/owl.css
+File Name: C:\Downloaded Web Sites\ziongate.netlify.app\assets\plugins\css\owl.css
+Content Type: text/css
+
+Uri: https://ziongate.netlify.app/assets/plugins/css/owl.video.play.html
+File Name: C:\Downloaded Web Sites\ziongate.netlify.app\assets\plugins\css\owl.video.play.html
+Content Type: text/html
+
+Uri: https://ziongate.netlify.app/assets/plugins/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\ziongate.netlify.app\assets\plugins\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://ziongate.netlify.app/assets/plugins/js/circle-progress.js
+File Name: C:\Downloaded Web Sites\ziongate.netlify.app\assets\plugins\js\circle-progress.js
+Content Type: application/javascript
+
+Uri: https://ziongate.netlify.app/assets/plugins/js/isotope.pkgd.js
+File Name: C:\Downloaded Web Sites\ziongate.netlify.app\assets\plugins\js\isotope.pkgd.js
+Content Type: application/javascript
+
+Uri: https://ziongate.netlify.app/assets/plugins/js/jquery.fancybox.min.js
+File Name: C:\Downloaded Web Sites\ziongate.netlify.app\assets\plugins\js\jquery.fancybox.min.js
+Content Type: application/javascript
+
+Uri: https://ziongate.netlify.app/assets/plugins/js/jquery.min.js
+File Name: C:\Downloaded Web Sites\ziongate.netlify.app\assets\plugins\js\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://ziongate.netlify.app/assets/plugins/js/jquery.mixitup.min.js
+File Name: C:\Downloaded Web Sites\ziongate.netlify.app\assets\plugins\js\jquery.mixitup.min.js
+Content Type: application/javascript
+
+Uri: https://ziongate.netlify.app/assets/plugins/js/jquery.nav.js
+File Name: C:\Downloaded Web Sites\ziongate.netlify.app\assets\plugins\js\jquery.nav.js
+Content Type: application/javascript
+
+Uri: https://ziongate.netlify.app/assets/plugins/js/owl.carousel.js
+File Name: C:\Downloaded Web Sites\ziongate.netlify.app\assets\plugins\js\owl.carousel.js
+Content Type: application/javascript
+
+Uri: https://ziongate.netlify.app/assets/plugins/js/packery-mode.pkgd.js
+File Name: C:\Downloaded Web Sites\ziongate.netlify.app\assets\plugins\js\packery-mode.pkgd.js
+Content Type: application/javascript
+
+Uri: https://ziongate.netlify.app/assets/plugins/js/popper.min.js
+File Name: C:\Downloaded Web Sites\ziongate.netlify.app\assets\plugins\js\popper.min.js
+Content Type: application/javascript
+
+Uri: https://ziongate.netlify.app/assets/plugins/js/validator.min.js
+File Name: C:\Downloaded Web Sites\ziongate.netlify.app\assets\plugins\js\validator.min.js
+Content Type: application/javascript
+
+Uri: https://ziongate.netlify.app/assets/plugins/js/wow.min.js
+File Name: C:\Downloaded Web Sites\ziongate.netlify.app\assets\plugins\js\wow.min.js
+Content Type: application/javascript
+
+Uri: https://ziongate.netlify.app/demo/demo.css
+File Name: C:\Downloaded Web Sites\ziongate.netlify.app\demo\demo.css
+Content Type: text/css
+
+Uri: https://ziongate.netlify.app/demo/demo.js
+File Name: C:\Downloaded Web Sites\ziongate.netlify.app\demo\demo.js
+Content Type: application/javascript
+
+Uri: https://ziongate.netlify.app/demo/styleswitcher.js
+File Name: C:\Downloaded Web Sites\ziongate.netlify.app\demo\styleswitcher.js
+Content Type: application/javascript
+
+Uri: https://ziongate.netlify.app/images/myresume.pdf
+File Name: C:\Downloaded Web Sites\ziongate.netlify.app\images\myresume.pdf
+Content Type: application/pdf
+
+Uri: https://ziongate.netlify.app/index.html
+File Name: C:\Downloaded Web Sites\ziongate.netlify.app\index.html
+Content Type: text/html
+
